@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maria</h1>
 <h3 align="center">A passionate Data Analyst based in Helsinki</h3>
 
+- 👀 I’m interested in **Data Analysis, Python, Machine Learning and Blockchain dev.**
+
+- 🤝 I’m looking to collaborate **on Data Analytics / Data Science projects.**
+
 - 📫 How to reach me **soriano.mariacl@gmail.com**
+
+- ⚡ Fun fact **I was a professional soccer player for 3 years at FCBarcelona**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
