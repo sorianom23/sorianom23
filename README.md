@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **soriano.mariacl@gmail.com**
 
-- ⚡ Fun fact **I was a professional soccer player for 3 years at FCBarcelona**
+- ⚡ Fun fact **I was a professional soccer player for 3 years at FCBarcelona.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
