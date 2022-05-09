@@ -2,7 +2,7 @@
 <h3 align="center">I am a passionate Data Analyst based in Helsinki, Finland 🇫🇮</h3>
 
 **NOW**
-👩🏽‍💻 Working on Visualization projects with **Tableau**
+- 👩🏽‍💻 Working on Visualization projects with **Tableau**
 
 **BIO**
 - 👀 I’m interested in Data Analysis, Python, Machine Learning and Blockchain dev.
