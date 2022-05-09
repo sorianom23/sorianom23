@@ -14,7 +14,7 @@ I am a passionate **Data Analyst** based in Helsinki, Finland. 🇫🇮
 - 👩🏽‍💻 Working on Visualization projects with **Tableau**
 
 **BIO**
-- 👀 I’m interested in Data Analysis, Python, Machine Learning and Blockchain dev.
+- 👀 I’m interested in Data Analysis, Python, Machine Learning and Blockchain dev
 - 🛠 I use ```.py```, ```.ipynb```, ```.sql```, ```.twb```
 - 🌱 Learning all about Blockchain dev
 - 💬 Ping me about **development, data viz, blockchain stuff, content creation**
