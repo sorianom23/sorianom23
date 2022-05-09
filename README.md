@@ -1,6 +1,5 @@
-<h2>Hello 👋</h2>
-I am a passionate Data Analyst based in Helsinki, Finland. 🇫🇮
-**Skilled in Python, MySQL, Machine Learning, Tableau, API'S, and Busines Intelligence**
+## Hello 👋
+###### I am a passionate Data Analyst based in Helsinki, Finland. 🇫🇮 **Skilled in Python, MySQL, Machine Learning, Tableau, API'S, and Busines Intelligence**
 
 
 **NOW**
