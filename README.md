@@ -1,5 +1,6 @@
-<h1 align="center">Hello 👋</h1>
-<h3 align="center">I am a passionate Data Analyst based in Helsinki, Finland 🇫🇮</h3>
+<h2>Hello 👋</h2>
+I am a passionate Data Analyst based in Helsinki, Finland. 🇫🇮 **Skilled in Python, MySQL, Machine Learning, Tableau, API'S, and Busines Intelligence.**
+If you want to know more about my background please check out my [LinkedIn](https://www.linkedin.com/in/sorianom/)
 
 **NOW**
 - 👩🏽‍💻 Working on Visualization projects with **Tableau**
