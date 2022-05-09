@@ -6,7 +6,7 @@
 
 **BIO**
 - 👀 I’m interested in Data Analysis, Python, Machine Learning and Blockchain dev.
-- 🛠 I use .py, .ipynb, .sql, .twb
+- 🛠 I use ```.py```, ```.ipynb```, ```.sql```, ```.twb```
 - 🌱 Learning all about Blockchain dev
 - 💬 Ping me about **development, data viz, blockchain stuff, content creation**
 - 🤝 I’m looking to collaborate on Data Analytics / Data Science projects
