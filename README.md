@@ -1,6 +1,12 @@
 ## Hello 👋
 I am a passionate Data Analyst based in Helsinki, Finland. 🇫🇮 
-#### Skilled in Python, MySQL, Machine Learning, Tableau, API'S, and Busines Intelligence
+Skilled in:
+ - **Python*
+ - **MySQL**
+ - **Machine Learning**
+ - **Tableau**
+ - **API'S**
+ - **Busines Intelligence**
 
 
 **NOW**
