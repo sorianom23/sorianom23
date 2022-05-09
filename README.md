@@ -1,5 +1,6 @@
 <h2>Hello 👋</h2>
-I am a passionate Data Analyst based in Helsinki, Finland. 🇫🇮 **Skilled in Python, MySQL, Machine Learning, Tableau, API'S, and Busines Intelligence**
+I am a passionate Data Analyst based in Helsinki, Finland. 🇫🇮
+**Skilled in Python, MySQL, Machine Learning, Tableau, API'S, and Busines Intelligence**
 
 
 **NOW**
@@ -11,5 +12,5 @@ I am a passionate Data Analyst based in Helsinki, Finland. 🇫🇮 **Skilled in
 - 🌱 Learning all about Blockchain dev
 - 💬 Ping me about **development, data viz, blockchain stuff, content creation**
 - 🤝 I’m looking to collaborate on Data Analytics / Data Science projects
-- 📫 Reach me at: **soriano.mariacl@gmail.com**
+- 📫 Reach me at: **soriano.mariacl@gmail.com** or [LinkedIn](https://www.linkedin.com/in/sorianom/)
 - ⚡ Fun fact I was a professional soccer player for 3 years at FCBarcelona
