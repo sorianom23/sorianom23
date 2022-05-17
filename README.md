@@ -11,7 +11,7 @@ I am a passionate **Data Analyst** based in Helsinki, Finland. 🇫🇮
 
 
 **NOW**
-- 👩🏽‍💻 Working on Visualization projects with **Tableau**
+- 👩🏽‍💻 Creating an Analytical Dashboard for an specific NFT collection: https://github.com/sorianom23/NFT-analysis-inBetweeners
 
 **BIO**
 - 👀 I’m interested in Data Analysis, Python, Machine Learning and Blockchain dev
