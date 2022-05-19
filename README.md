@@ -13,7 +13,6 @@ I am a passionate **Data Analyst** based in Helsinki, Finland. 🇫🇮
 **NOW**
 - 👩🏽‍💻 Creating an **Analytical Dashboard for an specific NFT collection**: [[https://github.com/sorianom23/NFT-analysis-inBetweeners](https://github.com/sorianom23/nft-dashboard)](https://github.com/sorianom23/nft-dashboard)
 - Using: **Phyton, SQL.**
-- Highlited libraries: ```Web3.py```
 - APIs: **Etherscan, OpenSea.**
 
 **BIO**
