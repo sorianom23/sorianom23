@@ -11,9 +11,7 @@ I am a passionate **Data Analyst** based in Helsinki, Finland. 🇫🇮
 
 
 **NOW**
-- 👩🏽‍💻 Creating an **Analytical Dashboard for an specific NFT collection**: https://github.com/sorianom23/nft-dashboard
-- Using: **Phyton, SQL.**
-- APIs: **Etherscan, OpenSea.**
+- 👩🏽‍💻 Working on my **NFT Expert Certification**
 
 **BIO**
 - 👀 I’m interested in Data Analysis, Python, Machine Learning and Blockchain dev
