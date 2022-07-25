@@ -17,7 +17,7 @@ I am a passionate **Data Analyst** based in Helsinki, Finland. 🇫🇮
 - 👀 I’m interested in Data Analysis, Python, Machine Learning and Blockchain dev
 - 🛠 I use ```.py```, ```.ipynb```, ```.sql```, ```.twb```
 - 🌱 Learning all about Blockchain dev
-- 💬 Ping me about **development, data viz, blockchain stuff, content creation**
+- 💬 Ping me about **python, data viz, data products, content creation**
 - 🤝 I’m looking to collaborate on Data Analytics / Data Science projects
 - 📫 Reach me at: **soriano.mariacl@gmail.com** or [LinkedIn](https://www.linkedin.com/in/sorianom/)
 - ⚡ Fun fact I was a professional soccer player for 3 years at FCBarcelona
