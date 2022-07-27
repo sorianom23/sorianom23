@@ -11,7 +11,7 @@ I am a passionate **Data Analyst** based in Helsinki, Finland. 🇫🇮
 
 
 **NOW**
-- 👩🏽‍💻 Working on my **NFT Expert Certification**
+- 👩🏽‍💻 Learning more about **Business Analytics**
 
 **BIO**
 - 👀 I’m interested in Data Analysis, Python, Machine Learning and Blockchain dev
