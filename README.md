@@ -10,7 +10,7 @@ I am a Junior **Data Analyst** based in Helsinki, Finland. 🇫🇮
 
 
 **NOW**
-- 👩🏽‍💻 Working on a **Business Analytics** specialization.
+- 👩🏽‍💻 Working on **IBM AI Engineering Professional Certificate**.
 
 
 **BIO**
