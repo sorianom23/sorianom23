@@ -9,10 +9,6 @@ I am a Junior **Data Analyst** based in Helsinki, Finland. 🇫🇮
  - **Machine Learning** 🧠
 
 
-**NOW**
-- 👩🏽‍💻 Working on **IBM AI Engineering Professional Certificate**.
-
-
 **BIO**
 - 👀 I’m interested in Data Analysis, Python, Machine Learning, Business Analytics.
 - 🛠 I use ```.py```, ```.ipynb```, ```.sql```, ```.twb```
