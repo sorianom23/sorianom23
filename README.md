@@ -1,5 +1,5 @@
 ## Hello 👋
-I am a Junior **Data Analyst** based in Helsinki, Finland. 🇫🇮 
+I am learning to build iOS Apps. Based in Helsinki, Finland 🇫🇮 
 
 **Skilled in:**
  - **Python** 🐍
@@ -10,10 +10,9 @@ I am a Junior **Data Analyst** based in Helsinki, Finland. 🇫🇮
 
 
 **BIO**
-- 👀 I’m interested in Data Analysis, Python, Machine Learning, Business Analytics.
-- 🛠 I use ```.py```, ```.ipynb```, ```.sql```, ```.twb```
-- 🌱 Learning more about Business Analytics.
-- 💬 Ping me about **python, data viz, data products, content creation**
-- 🤝 I’m looking to collaborate on Data Analytics / Data Science projects.
+- 👀 I’m interested in Swift, Data Analysis, Python, Machine Learning, Business Analytics.
+- 🌱 Learning more about App Development with Swift and Swift UI.
+- 💬 Ping me about **swift, swift UI, python**
+- 🤝 I’m looking to collaborate on iOS App Development projects.
 - 📫 Reach me at: **soriano.mariacl@gmail.com** or [LinkedIn](https://www.linkedin.com/in/sorianom/)
 - ⚡ Fun fact I was a professional soccer player for 3 years at FCBarcelona.
